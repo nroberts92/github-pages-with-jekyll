@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Technical Resume
 
-I'm glad you are here. I plan to talk about ...
+In this space I will discuss the technical skills I have developed as as student in this course.
